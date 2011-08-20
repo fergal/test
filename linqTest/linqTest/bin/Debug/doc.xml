@@ -1,0 +1,22 @@
+<test>
+<Row>
+     <Category>A</Category>
+     <Time>20090101</Time>
+     <Sales>10</Sales>
+</Row>
+<Row>
+     <Category>B</Category>
+     <Time>20090101</Time>
+     <Sales>5</Sales>
+</Row>
+<Row>
+     <Category>C</Category>
+     <Time>20091205</Time>
+     <Sales>2</Sales>
+</Row>
+<Row>
+     <Category>A</Category>
+     <Time>20091205</Time>
+     <Sales>4</Sales>
+</Row>
+</test>
