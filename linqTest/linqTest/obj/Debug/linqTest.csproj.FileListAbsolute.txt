@@ -3,3 +3,8 @@ C:\Users\Fergal\Documents\Visual Studio 2008\Projects\linqTest\linqTest\bin\Debu
 C:\Users\Fergal\Documents\Visual Studio 2008\Projects\linqTest\linqTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Fergal\Documents\Visual Studio 2008\Projects\linqTest\linqTest\obj\Debug\linqTest.exe
 C:\Users\Fergal\Documents\Visual Studio 2008\Projects\linqTest\linqTest\obj\Debug\linqTest.pdb
+C:\Users\Fergal\test\linqTest\linqTest\obj\Debug\linqTest.exe
+C:\Users\Fergal\test\linqTest\linqTest\obj\Debug\linqTest.pdb
+C:\Users\Fergal\test\linqTest\linqTest\bin\Debug\linqTest.exe
+C:\Users\Fergal\test\linqTest\linqTest\bin\Debug\linqTest.pdb
+C:\Users\Fergal\test\linqTest\linqTest\obj\Debug\ResolveAssemblyReference.cache
