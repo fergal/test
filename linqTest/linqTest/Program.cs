@@ -64,6 +64,7 @@ namespace linqTest
 	    // added another comment
 	    //added a new branch comment
             //added this in otherBranch
+            //added this in master
         }
 
     }
