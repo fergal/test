@@ -61,13 +61,14 @@ namespace linqTest
             Console.WriteLine("Sum in xdoc is " + sum);
             Console.Read();
             // added a test comment first!
+	    // added another comment
 <<<<<<< HEAD
-            // added another comment
-
+	    //added a new branch comment
+            //added this in otherBranch
+            //added this in master
 =======
-            //added a new branch comment
->>>>>>> newComment
-
+	    //deleted a new branch comment
+>>>>>>> otherBranch
         }
 
     }

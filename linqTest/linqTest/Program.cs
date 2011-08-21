@@ -63,6 +63,7 @@ namespace linqTest
             // added a test comment first!
 	    // added another comment
 	    //added a new branch comment
+ //deleted a new branch comment
             //added this in otherBranch
             //added this in master
         }
