@@ -1,3 +1,6 @@
 test text
+<<<<<<< HEAD
 Added this in otherBranch
+=======
 in other
+>>>>>>> otherBranch
