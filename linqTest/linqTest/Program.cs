@@ -59,13 +59,7 @@ namespace linqTest
                        select Convert.ToInt32(node.Value)).Sum();
 
             Console.WriteLine("Sum in xdoc is " + sum);
-            Console.Read();
-            // added a test comment first!
-	    // added another comment
-	    //added a new branch comment
- //deleted a new branch comment
-            //added this in otherBranch
-            //added this in master
+            Console.Read();	
         }
 
     }
